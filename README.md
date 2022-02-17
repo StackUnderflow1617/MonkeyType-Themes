@@ -1,2 +1,2 @@
-# MonkeyType-Themes
-A list of themes I like for the typing website: monkeytype.com!
+# MonkeyType-Themes/src
+Source images and stuff for the main branch README.md
